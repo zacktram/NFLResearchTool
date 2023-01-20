@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GetMethods
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Methods\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=line
+comment1.target=java.lang.String\ capitalize(java.lang.String)
+comment2.params=
+comment2.target=void\ getRecLeaders()
+comment3.params=
+comment3.target=void\ getRushLeaders()
+comment4.params=
+comment4.target=void\ getPassLeaders()
+comment5.params=
+comment5.target=void\ getPassDefense()
+comment6.params=
+comment6.target=void\ getRushDefense()
+comment7.params=
+comment7.target=void\ getTeamDefense()
+numComments=8
